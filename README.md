@@ -1,7 +1,7 @@
 <h1 align="center">Heyo 👋 I'm Akshay Jadhav</h1>
 
 <p align="center">
-  🚀 2nd Year AI Student @ JSPM | Turning caffeine into code ☕🤖  
+  🚀 3nd Year AI Student @ JSPM | Turning caffeine into code ☕🤖  
 </p>
 
 ---
