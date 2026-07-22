@@ -32,9 +32,7 @@
 
 ---
 
-### 🪄 Featured Project  
-**[🧭 free-ai-resources](https://github.com/akshay0779/free-ai-resources)**  
-> A curated list of **free AI courses, tools, and research** — because learning AI shouldn’t cost your sanity 💸🤯  
+ 
 
 ---
 
